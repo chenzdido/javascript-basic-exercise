@@ -22,5 +22,4 @@ export default function countCharacter(string, prediction) {
 
   return num;
 
-  throw new Error('Please delete this line and implement the function');
 }
